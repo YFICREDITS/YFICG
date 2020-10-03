@@ -13,7 +13,7 @@ Ticker - YFICG
 
 Coin Type - ERC20 Smart Contract
 
-Total Supply - 50,000,000
+Total Supply - 50,000
 
 Decimals - 18
 
