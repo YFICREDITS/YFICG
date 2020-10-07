@@ -1,6 +1,6 @@
 # YFICG
 YFICG (Token)
-
+https://yadi.sk/i/4BIVb1nuAK0iaA
 YFI CREDITS GROUP
 
 YFI CREDITS is an ecosystem on ERC 20 which aims to simplify user interaction with popular DeFi protocols and maximize the annual percentage yields (APY) of cryptocurrencies deposited into DeFi.
